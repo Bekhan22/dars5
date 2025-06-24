@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.logo {
+    display: flex;
+    gap: 50px;
+}
+
+footer {
+    background-color: #252641;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    color: white;
+    padding-left: 600px;
+}
+
+.gr {
+    color: #B2B3CF;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.noma {
+    display: flex;
+    gap: 30px;
+    margin-left: -40px;
+}
+
+.noma input {
+    width: 400px;
+    height: 60px;
+    color: #83839A;
+    border-radius: 80px;
+    background-color: inherit;
+    border: 2px solid #83839A;
+    padding-left: 20px;
+}
+
+.btn4 {
+    width: 179px;
+    height: 60px;
+    border-radius: 60px;
+    background-color: #545AE7;
+    color: white;
+    border: none;
+}
+.hh{
+    display: flex;
+    gap: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.yy{
+    margin-left: 30pxb;
+}
